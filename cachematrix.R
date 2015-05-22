@@ -51,3 +51,4 @@ checkmakematrix$setinv(NULL)
 checkmakematrix<-makeCacheMatrix(mymat) 
 cacheSolve(checkmakematrix) 
 
+#ugh, why isn't the getting pushed!
